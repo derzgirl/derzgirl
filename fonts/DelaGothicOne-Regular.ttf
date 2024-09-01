@@ -1,4 +1,0 @@
-git add fonts/DelaGothicOne-Regular.ttf
-git commit -m "Add DelaGothicOne font"
-git push origin main
-
